@@ -1,0 +1,20 @@
+button{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(58, 0, 128);
+    color:#ffffff;
+    border:none;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color.5s;
+
+}
+
+button:hover{
+    background-color: #b05f2a;
+}
+
+button:active{
+    background-color: #cb91b3;
+}
